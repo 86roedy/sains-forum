@@ -11,6 +11,9 @@ Sains forum adalah sebuah forum berbasis laravel dan mysql dimana user bisa bert
 ## Link video:
 - Video memposting, mengedit postingan, menghapus pesan, CRUD kategori
 https://drive.google.com/file/d/1F8Jv2FmvcC7AdytjKc4Sro607UnuIwHA/view?usp=drivesdk
+
+## Link ERD : https://github.com/86roedy/sains-forum/blob/main/erd-sains%20forum.png
+
 #### Fitur aplikasi.
 - Login Register mengunakan Laravel Fortify
 - Dashboard Admin (hak hapus postingan, hak edit postingan user, menambahkan tags dan kategori).
