@@ -8,8 +8,9 @@ Sains forum adalah sebuah forum berbasis laravel dan mysql dimana user bisa bert
 3. Ade Rudiansyah - 2057201041
 4. Rico Andreas - 2057201027
 
-## Link video:https://drive.google.com/drive/folders/16uo-l5kKKtq1lv5kEt4rE85JCLG1OQLh?usp=share_link
-
+## Link video:
+- Video memposting, mengedit postingan, menghapus pesan, CRUD kategori
+https://drive.google.com/file/d/1F8Jv2FmvcC7AdytjKc4Sro607UnuIwHA/view?usp=drivesdk
 #### Fitur aplikasi.
 - Login Register mengunakan Laravel Fortify
 - Dashboard Admin (hak hapus postingan, hak edit postingan user, menambahkan tags dan kategori).
